@@ -1,8 +1,7 @@
 ## Personal Portfolio
 
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](https://tinyurl.com/2jswyom4)
 
 Setup:
 - run ```npm i && npm start```
-
