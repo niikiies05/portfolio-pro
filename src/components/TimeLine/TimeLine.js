@@ -46,12 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>A propos de moi</SectionTitle>
       <SectionText>
-        Passionné de développement web depuis plusieurs
-        années, Je suis un développeur web motivé et
-        autodidacte qui aime résoudre des problèmes. Je
-        fusionne une passion pour la convivialité et l'expérience
-        utilisateur avec des connaissances techniques pour créer
-        des expériences numériques unique.
+        En tant que développeur Fullstack, je suis également un leader de projet expérimenté qui excelle dans la planification, la coordination et la communication avec les parties prenantes, afin de garantir la livraison de projets de qualité dans les délais impartis. Mon approche centrée sur l'utilisateur, combinée à une solide expertise technique, me permet de naviguer efficacement dans les défis de développement, tout en maintenant une vue d'ensemble stratégique pour atteindre les objectifs fixés.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

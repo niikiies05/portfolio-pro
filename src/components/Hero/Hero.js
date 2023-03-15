@@ -13,12 +13,7 @@ const Hero = (props) => (
           Bienvenue sur mon Portfolio personnel
         </SectionTitle>
         <SectionText>
-          Passionné de développement web depuis plusieurs
-          années, Je suis un développeur web motivé et
-          autodidacte qui aime résoudre des problèmes. Je
-          fusionne une passion pour la convivialité et l'expérience
-          utilisateur avec des connaissances techniques pour créer
-          des expériences numériques unique.
+        Je suis un développeur Fullstack passionné par la création de solutions innovantes et élégantes qui transforment les idées en réalité. Avec une expérience solide dans la conception, le développement et la maintenance de logiciels, je suis prêt à relever tous les défis de développement que vous pouvez me lancer.
         </SectionText>
         <Button onClick={props.handleClick}>Voir plus</Button>
       </LeftSection>
